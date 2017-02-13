@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SkylarkTest</string>
+    
+    //Strings pertaining to the main activity
+
+    <string name="something_went_wrong">There was an error whilst downloading your photo</string>
+    <string name="contacting_site">Contacting Website...</string>
+    <string name="episode_unfavourited">This episode has been unfavourited</string>
+    <string name="episode_favourited">This episode has been favourited</string>
+    
+</resources>

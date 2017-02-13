@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/gson-2.7_a477032af8dd639228936f249318f238a90afe2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/javax.inject-1_ca8015db1dfdf2f23214d4bd2536b5b6dffa4fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_9e9db14677b2765920130ce045eb53f5606c0d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_adad1feab0c8e6c887b2b07f46bddd16bd786443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_b9f6396a34fa073e500dcc5dece188e4166422a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_088a2a2ce59c6b3d1d2287248ea85eda155b52d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="205155180b7747a96c076484ba0014e4bcacb33d">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.3.1_337ec8d6e0e52e90e709fb78147abe3909f52735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_7b41052181cc69edf784dd4fcaa2e90f927c5053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_494d412aaa7925e2b86c38a2cd48b3669ac9f71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_296b9e2b830f160893cdddc524f0a8eb8c3b7a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_51f60c59ad029a233954eb86c5b7ea4396e63e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="205155180b7747a96c076484ba0014e4bcacb33d">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.3.1_0e7efb024b2c3f6d5ef2c6d6290f671bad2276ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.1/1c1c75a7e1dfee58c51822987dc658f93e036c81/realm-annotations-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1c75a7e1dfee58c51822987dc658f93e036c81">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/realm-annotations-2.3.1_12a85a27025a1b5c49d06423bae25b974c52ec6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5d05be1da455e922c56ee609d4db0b79ec0f2fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_f1047d51d7fe1011555cdaf9b824f1dc70ede6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_4ef2bacb29202f4ee3109967e643abb526d11a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_407c21000d0661d29e7af131e02af5462d9f94e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_fbb08fb19f43b9f68823570ddb77a14121ca4255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c85a56ff84255a439d7f84c1e3ce6d342a32c8af">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7413b02b52133aa6b8c808a66fa1caf69878913e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_78206a15e8b065705e1560d44837ccab33a93004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ecb1e7408d65d0fbad1eb3d110435a3338c6e76">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/instant-run_4ddd58c078bfac8de4e4e1edf971509881acf3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_23f68c5da5f0af672ae4ab666ff9abd432134156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/okio-1.8.0_57750691ca1ff2aed7cbb8f5263dc2c1c704a121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_a69f81465f2fd3945cb7a164bb5adc0526406c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d5b99b341647e244b8134abca4c48d53c7b806b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_a94592eefbdbfee7ac05883035b6b06099b4ce1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/glide-3.5.2_4bb980ae1ec624dc95611c80bbc122c9302b89a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_8f719695c057beda1b051e5359b63557c6658d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_916213ac4f360bef770972b0de9cf7deb5be64a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d55d2a6ae7764d9a66ebd5b0210279b9d56c0ba">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b8185e8c96566a16914afbd1a9e8937edff363ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_c92c444f6823bb84625fcf4c3f5f2335c4f6ddae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7619cfcb26045cdec6541d78bf9c0753a126000b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_78cb373aa4f5619f3a27e3098bfaecf8564bd28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_556c6959d00b2308949a0c53f52c1481045968bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_44ba7ec801dd877aa18a6cfebffa7034b7313c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_fa82a1b8995d5c399868c87961780cef91e8c904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_6e031749e06a60658770d3e4abf1fe864969ad08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.5/571f4e0451db64a7b41dbeb5f2503986fe5acdb4/dagger-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/dagger-2.5_81cf644845b899aa9cd45827c916753616e8ed9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_fc310a4b693ceb7edeb39187fedbd73612cbef24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_97393dffa9ed1a1b655f881780305e07291b8274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e26fa90978c6b5689c20149b94bd079e6333f662">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/instant-run_9576527e133967b8db7c74099ea8a83159aac3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_f2b910c0e304804cdf7b860dec4d3b901f149104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/davidmontaguerendall/skylarktest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_da13a7b24d196ebf429ec1d00560ab9b9f265d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_0dbbebbfa34bfdc7f2443e101150cf529346bf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/davidmontaguerendall/AndroidStudioProjects/interviewshow/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_4c0d7aa62bcb236c1c96ee0fc7c02b0427612025.jar" />
+    </item>
+
+</items>
